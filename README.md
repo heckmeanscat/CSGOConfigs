@@ -1,7 +1,6 @@
 # OverHost.eu
-We're an small game-hosting + provide freets3.
+Just aaaan project! *yolo*
 <p></p>
-We will now use this for people can report/sent idea.
 
 ** Use issues if you have idea/problems! **
 <p></p>

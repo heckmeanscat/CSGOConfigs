@@ -1,3 +1,3 @@
-# MKHosting.eu
+# BOTMikkel
 
 No anymore update!

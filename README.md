@@ -1,11 +1,9 @@
-# BOTMikkel
+# This page is only for, where i doing provide free configs for csgoservers.
 
-If you have some ideas, which configs to be thrown up, you can always get it downloaded from here. :)
-
-
-All files located here, is freely available. You can use it anytime.
-We will recommend using: /newconfigs/ !!
-
-Can be contacted on Steam!
-- Search after: BOTMIKKEL :-)
-
+# FAQ:
+Q: Do you provide esl5on5.cfg with overtime?
+A: Yes/No. (Because someone using eBot, someone dont want to use overtime.)
+Q: Is it possible for edit the configs?
+A: Yep.
+Q: Possible for pull requests?
+A: Jeps.

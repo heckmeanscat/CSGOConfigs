@@ -6,9 +6,9 @@
 
 ## Which configs is incl?
 
-Knife.cfg - BUT it works, there is a bug. where you cant get question back!
-Esl5on5.cfg
-praccon.cfg
-cevo.cfg
-warmup.cfg
++ Knife.cfg - BUT it works, there is a bug. where you cant get question back!
++ Esl5on5.cfg
++ praccon.cfg
++ cevo.cfg
++ warmup.cfg
 + alias.cfg

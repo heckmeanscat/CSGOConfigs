@@ -6,7 +6,7 @@
 
 ## Which configs is incl?
 
-+ Knife.cfg - BUT it works, there is a bug. where you cant get weapons back!
++ Knife.cfg
 + Esl5on5.cfg
 + praccon.cfg
 + cevo.cfg
